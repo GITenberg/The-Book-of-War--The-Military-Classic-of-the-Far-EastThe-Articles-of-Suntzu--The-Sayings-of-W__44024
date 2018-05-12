@@ -35,6 +35,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42446
     wikipedia: https://en.wikipedia.org/wiki/Wu_Qi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44024#The-Book-of-War--The-Military-Classic-of-the-Far-EastThe-Articles-of-Suntzu--The-Sayings-of-W_
 gutenberg_issued: '2013-10-23'
 gutenberg_type: Text
 identifiers:
