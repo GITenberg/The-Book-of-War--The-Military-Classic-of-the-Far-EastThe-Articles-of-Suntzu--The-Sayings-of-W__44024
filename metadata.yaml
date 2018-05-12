@@ -1,0 +1,54 @@
+_repo: The-Book-of-War--The-Military-Classic-of-the-Far-EastThe-Articles-of-Suntzu--The-Sayings-of-W__44024
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Calthrop, Everard Ferguson
+    alias: Calthrop, E. F.
+    birthdate: 1876
+    deathdate: 1915
+    gutenberg_agent_id: '44291'
+    url: http://www.gutenberg.org/2009/agents/44291
+covers:
+- cover_type: archival
+  image_path: 44024-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Sunzi, active 6th century B.C.
+    aliases:
+    - 孙子
+    - 孫子
+    - Sun Tzu
+    gutenberg_agent_id: '4349'
+    url: http://www.gutenberg.org/2009/agents/4349
+    wikipedia:
+    - http://zh.wikipedia.org/wiki/%E5%AD%99%E6%AD%A6
+    - http://en.wikipedia.org/wiki/Sun_Tzu
+  - agent_name: Wu, Qi
+    aliases:
+    - Wu-tzu
+    - 吳起
+    - 吴起
+    - Wuzi
+    birthdate: -440
+    deathdate: -381
+    gutenberg_agent_id: '42446'
+    url: http://www.gutenberg.org/2009/agents/42446
+    wikipedia: https://en.wikipedia.org/wiki/Wu_Qi
+description: ''
+gutenberg_issued: '2013-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44024'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War -- Early works to 1800'
+- !lcsh 'Strategy -- Early works to 1800'
+- !lcsh 'Military art and science -- Early works to 1800'
+- !lcc 'U'
+title: 'The Book of War: The Military Classic of the Far East
+
+  The Articles of Suntzu; The Sayings of Wutzu'
+url: http://www.gutenberg.org/ebooks/44024
